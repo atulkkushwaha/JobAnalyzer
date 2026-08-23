@@ -1,0 +1,5 @@
+.venv
+.streamlit/secrets.toml
+.streamlit/secrets.toml.example
+__pycache__
+jobs.db
